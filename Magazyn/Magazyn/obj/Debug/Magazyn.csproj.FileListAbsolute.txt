@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\Magazyn\Magazyn\bin\Debug\Magazyn.exe.config
+C:\Users\Student\source\repos\Magazyn\Magazyn\bin\Debug\Magazyn.exe
+C:\Users\Student\source\repos\Magazyn\Magazyn\bin\Debug\Magazyn.pdb
+C:\Users\Student\source\repos\Magazyn\Magazyn\obj\Debug\Magazyn.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Magazyn\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+C:\Users\Student\source\repos\Magazyn\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Magazyn\Magazyn\obj\Debug\Magazyn.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Magazyn\Magazyn\obj\Debug\Magazyn.exe
+C:\Users\Student\source\repos\Magazyn\Magazyn\obj\Debug\Magazyn.pdb
+C:\Users\Student\source\repos\Magazyn\Magazyn\obj\Debug\Magazyn.Form1.resources
